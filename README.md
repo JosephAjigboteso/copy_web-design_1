@@ -1,1 +1,1 @@
-This is a copy of a design from theme forest, It focused basically on replicating the html and CSS used, leaving out other parts like JavaScript and React. It's mainly for practice.
+This is a copy of a web page design from Theme forest. The design was focused basically on replicating the html and CSS used, leaving out other parts like JavaScript and React. It's mainly for practice.
